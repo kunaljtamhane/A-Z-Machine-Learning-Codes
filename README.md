@@ -43,9 +43,21 @@ This repository have A-Z Machine Learning codes from Python Basics to Reinforcem
 
 4.2 Importing Data through Kaggle APIs
 
-4.3 handling Missing Values
+4.3 handling Missing Values | Data Preprocessing
 
-4.4 Data Standardization
+4.4 Data Standardization | Data Preprocessing
+
+4.5 Label Encoding | Data Preprocessing
+
+4.6 Train, Test, Split | Data Preprocessing
+
+4.7 How to handle imbalanced Dataset | Data Preprocessing
+
+4.8 Feature extraction of Text Data using Tfidf Vectorizer | Data Preprocessing
+
+4.9 Numerical Dataset Pre-processing | Data Preprocessing
+
+4.10 Text Dataset Pre-processing | Data Preprocessing
 
 ## Module 5: Math Basics for Machine Learning
 5.1 Linear Algebra
